@@ -1,6 +1,6 @@
 # Spain_Electricity_Shortfall_Challenge_Team_ZF1
 
-For this project, we are tasked with building and deploying a ML model and to participate in a Kaggle challenge (0_Dataset)
+For this project, we are tasked with building and deploying a ML model and to participate in a Kaggle challenge using data provided (0_Dataset)
 
 # Project Breakdown
 * 1_EDA_and_Data_Engineering_and_Model_Creation: Explore the provided dataset, clean the data, engineer new features. Then, build an accurate regression model.
