@@ -9,7 +9,7 @@ Build a model for the government of Spain to predict the shortfall between energ
 
 * Model Creation: Create various ML models, fitted and compared to ultimately arrive at the best model for the specific task.
 
-* Model Accuracy: Investigate the accuracy of the various models tested and show perfomance in "Models.csv"
+* Model Accuracy: Investigate the accuracy of the various models tested and show perfomance in "models.csv"
 
 Note:
 
